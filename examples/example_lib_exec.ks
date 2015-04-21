@@ -1,6 +1,6 @@
 // This file is distributed under the terms of the MIT license, (c) the KSLib team
 
-run lib_exec.
+run exec_lib.
 
 execute("set " + "x" + " to " + "42" + "." + "print x."). // set x to 42. print x.
 
